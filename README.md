@@ -8,7 +8,7 @@ A simple password strength generator built with HTML, CSS, and JavaScript. This 
 - **Color-coded Strength Levels:** Password strength is visually represented with color-coded indicators.
 - **Secure Password Recommendations:** Receive suggestions to make your password stronger.
 - **Easy to Use:** Intuitive and user-friendly interface.
-
+- 
 ## Demo
 
 ![Password Strength Generator Demo](demo.gif)
